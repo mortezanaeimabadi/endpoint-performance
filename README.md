@@ -1,4 +1,4 @@
-**Endpoint Perfomance Checker**
+**Endpoint Perfomance Checker with Actuator**
 # Technology Stack
 
 - [Java](https://www.java.com) ( version 1.8 )
