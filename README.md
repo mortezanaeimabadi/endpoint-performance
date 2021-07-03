@@ -2,7 +2,7 @@
 # Technology Stack
 
 - [Java](https://www.java.com) ( version 1.8 )
-- [Spring Boot](https://spring.io/projects/spring-boot) ( version 2.4.2 )
+- [Spring Boot](https://spring.io/projects/spring-boot) ( version 2.4.4 )
 
 ## Requirements 
 Apache Maven (version: 3.6.3)<br/>
